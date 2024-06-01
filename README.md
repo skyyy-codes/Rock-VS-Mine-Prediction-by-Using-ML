@@ -1,5 +1,4 @@
 # Rock-VS-Mine-Prediction-by-Using-ML
-# Rock_VS_Mine_Prediction
 
 ## Overview
 
