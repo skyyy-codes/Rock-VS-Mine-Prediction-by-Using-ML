@@ -34,7 +34,7 @@ The logistic regression model achieves a certain level of accuracy on the traini
 
 ## Contributors
 
-- [Akash Chakraborty](GitHub profile](https://github.com/skyyy-codes))
+- [Akash Chakraborty](https://github.com/skyyy-codes))
 
 ## License
 
