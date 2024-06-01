@@ -34,9 +34,9 @@ The logistic regression model achieves a certain level of accuracy on the traini
 
 ## Contributors
 
-- [Your Name](link to your GitHub profile)
+- [Akash Chakraborty]([link to your GitHub profile](https://github.com/skyyy-codes))
 
 ## License
 
-This project is licensed under the [MIT License](link to license file).
+This project is licensed under the [MIT License](https://github.com/skyyy-codes/Rock-VS-Mine-Prediction-by-Using-ML/blob/main/LICENSE).
 
